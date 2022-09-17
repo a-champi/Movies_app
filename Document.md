@@ -34,3 +34,4 @@ React Js is a component-based front-end library <br>
 - Virtual DOM
 - Using the __create-react-app__ command
 - __Package.json__, you cann see all dependency from your aplication.
+- We can create any many components
