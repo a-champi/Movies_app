@@ -3,7 +3,7 @@ import React from "react";
 const MovieCard =({movie}) =>{
 
     return(
-        <div className="movie">
+        <div className="movie" >
             <div>
                 <p>{movie.Year}</p>
             </div>
